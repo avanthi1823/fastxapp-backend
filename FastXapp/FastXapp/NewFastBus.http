@@ -1,0 +1,6 @@
+@NewFastBus_HostAddress = http://localhost:5151
+
+GET {{NewFastBus_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
